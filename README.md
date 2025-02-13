@@ -9,7 +9,10 @@
 </p>
 
 ## 프로젝트 목표
+* 4주 동안 배운 자바 내용을 복습 및 숙련하기 위함입니다.
+* Java Socket을 이용해 서버 - 클라이언트 통신을 이해 및 구현합니다.
 
 ## 사용한 기술 & 개발 환경
+* JAVA 1.8
 
 ## [Project Wiki](https://github.com/Yseek/Java_Project_1st_casino/wiki)
