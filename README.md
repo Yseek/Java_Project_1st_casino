@@ -7,3 +7,9 @@
   <img src="https://github.com/user-attachments/assets/dc9f31ac-6084-42b5-86af-3f482ed26f7b" width="400" /> 
   <img src="https://github.com/user-attachments/assets/c9863b65-9e98-4048-adb7-024d02330d50" width="400" /> 
 </p>
+
+## 프로젝트 목표
+
+## 사용한 기술 & 개발 환경
+
+## [Project Wiki](https://github.com/Yseek/Java_Project_1st_casino/wiki)
